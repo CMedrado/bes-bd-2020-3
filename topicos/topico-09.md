@@ -34,14 +34,14 @@ Esses conceitos serão empregados nos próximos tópicos. Contudo, desde já é 
 
 ## Atividade (data limite: **17/03/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 09", para responder:
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bes-bd-2020-2, com o título "Tópico 09", para responder:
 1. Observe que cada item no *checklist* se refere a dois os mais conceitos. Por exemplo, o Item 5 possui três conceitos, a saber:  "entidade", "relacionamento", "atributo".<br>
 **Escolha dois** dos itens presentes no *checklist*, e **diferencie (distinga) entre si os conceitos de cada item escolhido**.<br>
 Por exemplo, se um dos itens que você escolheu foi o Item 5, então elabore uma explicação para distinguir os conceitos "entidade", "relacionamento", "atributo".
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bcc-bd-2020-2, cujo título é "Tópico 09", para indicar suas reflexões iniciais sobre conceitos do *modelo entidade relacionamento*.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bes-bd-2020-2, cujo título é "Tópico 09", para indicar suas reflexões iniciais sobre conceitos do *modelo entidade relacionamento*.
 
 ### Bibliografia
 
