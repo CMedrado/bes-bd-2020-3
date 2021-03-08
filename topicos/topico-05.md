@@ -35,7 +35,7 @@ No contexto da área de Banco de Dados, a literatura usa vários termos para se 
 
 ## Atividade (data limite: **10/03/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 05", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bes-bd-2020-2, com o título "Tópico 05", para responder:  
 1. O livro sugerido [1], Capítulo 1, usa os termos ***processamento de arquivos tradicional*** e ***abordagem de banco de dados*** para se referir a duas estratégias de acesso aos dados. Leia sobre esse conteúdo e compare esses termos, em relação ao:
    1. o **local dos metadados**, ou seja, para cada estratégia qual o local dos metadados; e 
    2. a **consequência deste local**, ou seja, para cada estratégia qual o impacto devido ao local dos metadados, quando metadados precisam ser modificados.
@@ -44,4 +44,4 @@ Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com 
    
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bcc-bd-2020-2, cujo título é "Tópico 05", para indicar suas reflexões sobre os *metadados* em uma aplicação.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bes-bd-2020-2, cujo título é "Tópico 05", para indicar suas reflexões sobre os *metadados* em uma aplicação.
