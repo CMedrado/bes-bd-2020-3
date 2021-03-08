@@ -9,7 +9,7 @@ Observe que esses requisitos de dados incluem um conjunto de demandas informacio
 
 ## Atividade (data limite: **03/03/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 04", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bes-bd-2020-2, com o título "Tópico 04", para responder:  
 1. Leia e releia os requisitos de dados para o BD Locadora de Veículos.<br>
 Escreva suas dúvidas/comentários acerca do entendimento sobre os requisitos de dados para o BD Locadora de Veículos.<br>
 Caso **não** tenha dúvidas/comentários, escreva: "Não tenho dúvidas/comentários sobre os requisitos de dados para o BD Locadora de Veículos".
@@ -17,4 +17,4 @@ Caso **não** tenha dúvidas/comentários, escreva: "Não tenho dúvidas/coment�
    
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bcc-bd-2020-2, cujo título é "Tópico 04", para indicar suas reflexões sobre os *requisitos de dados* para o **BD Locadora de Veículos**.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bes-bd-2020-2, cujo título é "Tópico 04", para indicar suas reflexões sobre os *requisitos de dados* para o **BD Locadora de Veículos**.
