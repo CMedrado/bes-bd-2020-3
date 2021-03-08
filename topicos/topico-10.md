@@ -119,7 +119,7 @@ A resposta à **Questão 02** está atrelada ao significado de cada elemento dos
 
 ## Atividade (data limite: **17/03/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 10", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bes-bd-2020-2, com o título "Tópico 10", para responder:  
 
 Seja o esquema conceitual do BD Empresa, que está representado por meio do DER apresentado acima. Avalie se as demandas informacionais abaixo podem ser atendidas pelo esquema conceitual.
 
@@ -132,7 +132,7 @@ Seja o esquema conceitual do BD Empresa, que está representado por meio do DER 
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bcc-bd-2020-2, cujo título é "Tópico 10", para indicar suas reflexões iniciais sobre *demandas informacionais atendidas a partir de um DER*.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bes-bd-2020-2, cujo título é "Tópico 10", para indicar suas reflexões iniciais sobre *demandas informacionais atendidas a partir de um DER*.
 
 ### Bibliografia
 
