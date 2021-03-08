@@ -33,9 +33,9 @@ Algumas benefícios potenciais para o emprego de SGBDs são:
 
 ## Atividade (data limite: **10/03/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 06", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bes-bd-2020-2, com o título "Tópico 06", para responder:  
 1. Dentre os potenciais benefícios para o emprego de SGBDs, escolha dois (dentre os citados acima ou outros) e explique-os de forma objetiva, se possível com exemplos.
    
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bcc-bd-2020-2, cujo título é "Tópico 06", para indicar suas reflexões sobre *sistemas gerenciadores de banco de dados*.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bes-bd-2020-2, cujo título é "Tópico 06", para indicar suas reflexões sobre *sistemas gerenciadores de banco de dados*.
