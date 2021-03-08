@@ -123,12 +123,12 @@ Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com 
 
 Seja o esquema conceitual do BD Empresa, que está representado por meio do DER apresentado acima. Avalie se as demandas informacionais abaixo podem ser atendidas pelo esquema conceitual.
 
-1. Que projetos possuem gerentes de departamento que trabalham nesses projetos? (Responda Sim ou Não) Sim
-1. Qual o nome dos funcionários que não possuem dependentes? (Responda Sim ou Não) Sim
-1. Quantos funcionários aposentados existem na empresa ? (Responda Sim ou Não) Não
-1. Que funcionários trabalham para um departamento que controla algum projeto que eles trabalham em? (Responda Sim ou Não) Sim
-1. Quais os gerentes de departamento que também são supervisores? (Responda Sim ou Não) Sim
-1. Qual o número médio de dependentes por empregado em cada departamento? (Responda Sim ou Não) Sim
+1. Que projetos possuem gerentes de departamento que trabalham nesses projetos? (Responda Sim ou Não)
+1. Qual o nome dos funcionários que não possuem dependentes? (Responda Sim ou Não)
+1. Quantos funcionários aposentados existem na empresa ? (Responda Sim ou Não)
+1. Que funcionários trabalham para um departamento que controla algum projeto que eles trabalham em? (Responda Sim ou Não)
+1. Quais os gerentes de departamento que também são supervisores? (Responda Sim ou Não)
+1. Qual o número médio de dependentes por empregado em cada departamento? (Responda Sim ou Não)
 
 ## Artefatos
 
