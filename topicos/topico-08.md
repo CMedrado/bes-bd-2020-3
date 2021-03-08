@@ -27,7 +27,7 @@ Considere o seguinte diagrama:
 
 <img src="../media/fig-diagrama-2.jpg" width="450">
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 08", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bes-bd-2020-2, com o título "Tópico 08", para responder:  
 
 1. Um banco possui de zero a várias agências, e uma agência está associada a um e somente um banco? (Responda Sim ou Não)
 1. Uma agência realiza de zero a vários empréstimos, e um empréstimo ocorre em uma e somente uma agência? (Responda Sim ou Não)
@@ -37,4 +37,4 @@ Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com 
    
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bcc-bd-2020-2, cujo título é "Tópico 08", para indicar suas reflexões iniciais sobre *diagrama entidade relacionamento*.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bes-bd-2020-2, cujo título é "Tópico 08", para indicar suas reflexões iniciais sobre *diagrama entidade relacionamento*.
