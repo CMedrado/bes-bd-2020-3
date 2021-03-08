@@ -36,7 +36,7 @@ Então, vamos nos apropriar (memorizar?) dos requisitos de dados do BD Empresa.
 
 ## Atividade (data limite: **03/03/2021 23h59min59s**)
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com o título "Tópico 03", para responder conforme a seguir:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bes-bd-2020-2, com o título "Tópico 03", para responder conforme a seguir:  
 1. Leia e releia os requisitos de dados pertinentes ao **BD Empresa**. Identifique 05 (cinco) pontos de imprecisão nos requisitos, conforme o exemplo abaixo.<br>
 **Ponto 1:** Não está claro se um dependente é obrigatoriamente um parente do seu empregado responsável.<br>
 **Ponto 2:** ...<br>
@@ -47,7 +47,7 @@ Criar uma _issue_ no projeto https://github.com/plinioleitao/bcc-bd-2020-2, com 
 
 ## Artefatos
 
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bcc-bd-2020-2, cujo título é "Tópico 03", para indicar suas reflexões sobre os *requisitos de dados* para o **BD Empresa**.
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bes-bd-2020-2, cujo título é "Tópico 03", para indicar suas reflexões sobre os *requisitos de dados* para o **BD Empresa**.
 
 ### Bibliografia
 
