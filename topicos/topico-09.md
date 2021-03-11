@@ -28,7 +28,7 @@ Para o Modelo Entidade Relacionamento (MER), um *checklist* com a maioria dos co
 1. Especialização exclusiva, especialização não exclusiva
 1. Generalização parcial, generalização total
 
->Para que que haja melhor fluência no emprego do MER, é pertinente e importante que entendamos **todos** os conceitos presentes no ***checklist* de conceitos** do MER, apresentado acima.
+>Para que haja melhor fluência no emprego do MER, é pertinente e importante que entendamos **todos** os conceitos presentes no ***checklist* de conceitos** do MER, apresentado acima.
 
 Esses conceitos serão empregados nos próximos tópicos. Contudo, desde já é mandatório que sejam lidos e estudados os Capítulos 7 e 8 do livro sugerido[1]. 
 
