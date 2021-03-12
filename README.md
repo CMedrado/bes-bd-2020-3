@@ -12,7 +12,11 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/jbr-ftaf-iix]
 
 ### Avisos ativos
 
-- Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
+1. **Divulgação:**
+   - *X Brazilian Workshop on Social Network Analysis and Mining*
+     - https://csbc.ufsc.br/eventos/brasnam/
+     - *July 18-22, Florianópolis, Brazil -- Online Edition*
+2. Ao criar uma *issue*, selecione um dos *templates*: **Tópico** ou **Dúvida**.
 <br>
 <br>
 <img src="./media/campaign-creators-IKHvOlZFCOg-unsplash.jpg" width="350">
