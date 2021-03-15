@@ -8,6 +8,8 @@ Os momentos síncronos ocorrerão na sala [https://meet.google.com/jbr-ftaf-iix]
 
 - [Tópico 09](topicos/topico-09.md) (data limite: **17/03/2021 23h59min59s**)
 - [Tópico 10](topicos/topico-10.md) (data limite: **17/03/2021 23h59min59s**)
+- [Tópico 11](topicos/topico-11.md) (data limite: **24/03/2021 23h59min59s**)
+- [Tópico 12](topicos/topico-12.md) (data limite: **24/03/2021 23h59min59s**)
 - [Todos os tópicos](topicos/topicos.md)
 
 ### Avisos ativos
