@@ -1,4 +1,6 @@
 ### Tópicos cobertos até o momento:
+[Tópico T12](./topico-12.md) - Modelo Entidade Relacionamento (MER) - Tipo de entidade fraca<br>
+[Tópico T11](./topico-11.md) - Modelo Entidade Relacionamento (MER) - Conceitos<br>
 [Tópico T10](./topico-10.md) - Modelo Entidade Relacionamento (MER) - Demanda informacional<br>
 [Tópico T09](./topico-09.md) - Modelo Entidade Relacionamento (MER) - *Checklist*<br>
 [Tópico T08](./topico-08.md) - Modelo Entidade Relacionamento (MER) - Primeiros passos<br>
